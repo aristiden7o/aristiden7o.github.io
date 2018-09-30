@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://aristiden7o.github.io/sitemap.xml 
