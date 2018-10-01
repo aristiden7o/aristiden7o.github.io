@@ -1,4 +1,4 @@
-Aristide's personal site
+personal site
 =====================
 
 Goals: 
