@@ -30,4 +30,5 @@ python -m pelican.server
 $ pelican content -o output -s publishconf.py
 $ ghp-import -c aristi.de output
 $ git push git@github.com:aristiden7o/aristiden7o.github.io.git gh-pages:master
+# ghp-import seems to not want to add a new commit, so I use git push :/
 ```
