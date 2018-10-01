@@ -27,7 +27,7 @@ python -m pelican.server
 ### publish
 
 ```
-$ pelican content -o output -s pelicanconf.py
+$ pelican content -o output -s publishconf.py
 $ ghp-import -c aristi.de output
 $ git push git@github.com:aristiden7o/aristiden7o.github.io.git gh-pages:master
 ```
