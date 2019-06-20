@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Aristide (Rio) Niyungeko'
-SITENAME = 'Aristide (Rio) Niyungeko'
+AUTHOR = 'Aristide Niyungeko'
+SITENAME = 'Aristide Niyungeko'
 SITEURL = 'http://aristi-dev.de'
 # SITEURL = ''
 AUTHOR_FIRST_NAME = 'Aristide'
-MENU_GITHUB = 'https://github.com/aristiden7o'
-MENU_LINKEDIN = 'https://www.linkedin.com/in/aristideniyungeko'
+MENU_GITHUB = 'https://github.com/aristide-n'
+MENU_LINKEDIN = 'https://www.linkedin.com/in/aristide-n'
 
 PATH = 'content'
 
